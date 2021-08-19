@@ -45,17 +45,17 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun zuriLink(view: View) {
-        val zuriIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://learntodroid.com"))
+        val zuriIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://zuri.team/"))
         startActivity(zuriIntent)
     }
 
     fun hngLink(view: View) {
-        val hngIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://learntodroid.com"))
+        val hngIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://hng.tech/"))
         startActivity(hngIntent)
     }
 
     fun i4gLink(view: View) {
-        val i4gIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://learntodroid.com"))
+        val i4gIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://ingressive.org/"))
         startActivity(i4gIntent)
     }
 }
