@@ -1,11 +1,6 @@
 <resources>
     <string name="app_name">StageTwoTask</string>
     <string name="done">Done</string>
-    <string name="zuri_logo">zuri logo</string>
-    <string name="zuri"><u>zuri</u></string>
-    <string name="hng_logo">hng logo</string>
-    <string name="hng"><u>HNG</u></string>
-    <string name="i4g_logo">i4g logo</string>
-    <string name="i4g"><u>i4g</u></string>
     <string name="type_here">Type here</string>
+    <string name="instruction">Type what is on your mind and click <i><b>Done</b></i> to display on the screen</string>
 </resources>
