@@ -1,5 +1,12 @@
 # HNG STAGE TWO TASK 2
 
+## Build a simple app that collects user input and displays the input on the screen.
+ 
+Flutter: you have the freedom to use any of Flutter’s stable platforms.
+Native: you have the freedom to use your language of choice.
+
+The submission must contain the Zuri/HNG/i4g logos and link to the website.
+
 ## Screenshots of project
 
 ![image](https://github.com/sallyjayz/hng-stage-two-task/blob/main/screenshots/first_screen.png)
